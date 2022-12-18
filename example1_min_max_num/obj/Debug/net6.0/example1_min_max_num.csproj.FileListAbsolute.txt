@@ -1,0 +1,15 @@
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\bin\Debug\net6.0\example1_min_max_num.exe
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\bin\Debug\net6.0\example1_min_max_num.deps.json
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\bin\Debug\net6.0\example1_min_max_num.runtimeconfig.json
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\bin\Debug\net6.0\example1_min_max_num.dll
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\bin\Debug\net6.0\example1_min_max_num.pdb
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\obj\Debug\net6.0\example1_min_max_num.csproj.AssemblyReference.cache
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\obj\Debug\net6.0\example1_min_max_num.GeneratedMSBuildEditorConfig.editorconfig
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\obj\Debug\net6.0\example1_min_max_num.AssemblyInfoInputs.cache
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\obj\Debug\net6.0\example1_min_max_num.AssemblyInfo.cs
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\obj\Debug\net6.0\example1_min_max_num.csproj.CoreCompileInputs.cache
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\obj\Debug\net6.0\example1_min_max_num.dll
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\obj\Debug\net6.0\refint\example1_min_max_num.dll
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\obj\Debug\net6.0\example1_min_max_num.pdb
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\obj\Debug\net6.0\example1_min_max_num.genruntimeconfig.cache
+C:\hp\C#\homework1\examples_seminar1\example1_min_max_num\obj\Debug\net6.0\ref\example1_min_max_num.dll
